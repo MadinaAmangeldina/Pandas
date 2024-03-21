@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-size: 100px ;
+    color:burlywood;
+}
+
+h3{
+    font-size: 25px;
+    color:bisque;
+}
+
+.image {
+    size:70%
+}
+
+p {
+    color:rgb(131, 139, 111);
+    font-size: 20px;
+}
